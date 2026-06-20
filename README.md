@@ -11,19 +11,7 @@ https://Gowthami-bot.github.io/buynow/
 
 ---
 
-## 📸 Screenshots
 
-### Home Page
-![Home Page](assets/screenshot1.png)
-
-### Product Showcase
-![Products](assets/screenshot2.png)
-
-### Shopping Cart
-![Cart](assets/screenshot3.png)
-
-### Sign In Page
-![Sign In](assets/screenshot4.png)
 
 ---
 
