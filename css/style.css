@@ -7,6 +7,22 @@
 }
 body {
     background-color: #E3E6E6;
+    padding-top: 50px;
+}
+
+
+.demo-banner{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #ffeb99;
+    color: #5a4300;
+    padding: 12px;
+    text-align: center;
+    font-weight: bold;
+    z-index: 9999;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
 a {
     text-decoration: none;
