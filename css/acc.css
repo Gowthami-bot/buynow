@@ -22,6 +22,16 @@ body {
     margin-top: 20px;
 }
 
+.disclaimer{
+    background:#fff3cd;
+    color:#856404;
+    text-align:center;
+    padding:10px;
+    margin-bottom:15px;
+    border-radius:5px;
+    font-weight:bold;
+}
+
 .logo {
     width: 100px;
 }
