@@ -1,5 +1,5 @@
-![Repo Size](https://img.shields.io/github/repo-size/Gowthami-bot/buynow-ecommerce)
-![Stars](https://img.shields.io/github/stars/Gowthami-bot/buynow-ecommerce?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/Gowthami-bot/buynow)
+![Stars](https://img.shields.io/github/stars/Gowthami-bot/buynow?style=social)
 
 # 🛒 BuyNow
 
@@ -7,7 +7,7 @@ BuyNow is a responsive e-commerce frontend built using HTML, CSS, and JavaScript
 
 ## 🌐 Live Demo
 
-https://Gowthami-bot.github.io/buynow-ecommerce/
+https://Gowthami-bot.github.io/buynow/
 
 ---
 
