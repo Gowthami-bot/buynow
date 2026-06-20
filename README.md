@@ -1,43 +1,92 @@
-![Repo Size](https://img.shields.io/github/repo-size/Gowthami-bot/amazone)
-![Stars](https://img.shields.io/github/stars/Gowthami-bot/amazone?style=social)
-# 🛒 Amazon Clone (Frontend)
+![Repo Size](https://img.shields.io/github/repo-size/Gowthami-bot/buynow-ecommerce)
+![Stars](https://img.shields.io/github/stars/Gowthami-bot/buynow-ecommerce?style=social)
 
-Responsive design of an Amazon website clone created in HTML, CSS, and JavaScript.
+# 🛒 BuyNow
 
-## Live Demo
-https://Gowthami-bot.github.io/amazon-clone/
+BuyNow is a responsive e-commerce frontend built using HTML, CSS, and JavaScript. It demonstrates modern web design principles, product showcase layouts, navigation systems, and responsive user interfaces inspired by real-world online shopping platforms.
 
-## Screenshots
+## 🌐 Live Demo
+
+https://Gowthami-bot.github.io/buynow-ecommerce/
+
+---
+
+## 📸 Screenshots
 
 ### Home Page
 ![Home Page](assets/screenshot1.png)
 
-### Product Page
-![Product](assets/screenshot2.png)
+### Product Showcase
+![Products](assets/screenshot2.png)
 
-### Cart Page
-![Product Cart](assets/screenshot3.png)
+### Shopping Cart
+![Cart](assets/screenshot3.png)
 
-### Login Page
+### Sign In Page
 ![Sign In](assets/screenshot4.png)
 
-## Features
-- Amazon styled Navbar
-- Product slider
-- Product cards grid layout
-- Product details page
-- Login page UI
-- Responsiveness
+---
 
-## Tech Stack
-- HTML
-- CSS
-- JS
+## ✨ Features
 
-## Author
+- Responsive navigation bar
+- Search bar interface
+- Hero banner section
+- Product category cards
+- Product showcase layout
+- Shopping cart UI
+- Sign-in page UI
+- Mobile-friendly design
+- Clean and modern user interface
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📂 Project Structure
+
+```text
+BuyNow/
+│
+├── assets/
+│   ├── images
+│   └── screenshots
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## 🚀 Future Improvements
+
+- Product search functionality
+- Add to cart functionality
+- Wishlist feature
+- User authentication
+- Product filtering
+- Backend integration using Flask
+- Database support
+
+---
+
+## 👩‍💻 Author
 
 **Gowthami**
 
-- GitHub: https://github.com/Gowthami-bot
+GitHub:
+https://github.com/Gowthami-bot
 
-- > This project is part of my journey to become a full-stack developer.
+---
+
+### Learning Journey
+
+This project is part of my journey toward becoming a Full Stack Developer and improving my frontend development skills.
