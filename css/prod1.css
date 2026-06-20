@@ -22,7 +22,7 @@
 
 /* Active tab */
 .cat-link.active {
-  color: #007185; /* Amazon blue */
+  color: #007185; /* blue */
   border-bottom: 2px solid #007185;
   font-weight: 600;
 }
